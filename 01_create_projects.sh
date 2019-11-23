@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # Check Yarn Installed
 # Check none of these directories exist
 
